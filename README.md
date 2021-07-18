@@ -1,3 +1,3 @@
 # genome-dataset-creation-tool
- Available Data
+ Available Data:
  English Hausa Multimodal Genome Dataset
